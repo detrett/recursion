@@ -8,4 +8,4 @@ function fibs(length) {
   return array;
 }
 
-console.log(fibs(12));
+console.log(fibs(10));
